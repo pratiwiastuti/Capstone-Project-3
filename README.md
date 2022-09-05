@@ -2,8 +2,6 @@
 # Travel Insurance
 Created by: Pratiwi Astuti
 
-Created By: Pratiwi Astuti
-
 ## Business Problem Understanding
 **Context** <br>
 Perusahaan travel menawarkan paket asuransi kepada customernya. Perusahaan ingin tahu customer mana yang dapat meng-claim asuransi sesuai dengan history yang ada pada database. <br>
@@ -37,6 +35,7 @@ Selanjutnya kita akan mendapatkan data yang sudah bersih dan kita akan lakukan a
 Dari analisa data, ditemukan ada data yang outlier dan imbalanced.
 ![imbalanced](https://user-images.githubusercontent.com/107948562/188425588-a341a96a-b71e-4d9c-8238-0434a28ee37c.png)
 ![outlier](https://user-images.githubusercontent.com/107948562/188425622-64b783f3-d448-4482-a067-ed5bdd3bc5b1.png)
+
 ## Data Preparation and Feature Engineering
 ### Data Preparation
 Menyiapkan data yang sudah bersih untuk dilakukan proses feature engineering.
@@ -59,7 +58,7 @@ Dalam tahap ini, kita akan mencari model terbaik yang dapat menghasilkan prediks
 ## Conclusion and Recomendation
 **Conclusion**
 Model terbaik yaitu XGBoost dengan nilai sbb:
-<img width="344" alt="best model" src="https://user-images.githubusercontent.com/107948562/188428937-69deae21-b84a-4af5-a242-8a57d38aea61.png">
+<img width="344" alt="best model" src="https://user-images.githubusercontent.com/107948562/188428937-69deae21-b84a-4af5-a242-8a57d38aea61.png"> <br>
 Model ini sudah di melalui teknik oversampling dan hasil prediksi yang didapat cukup baik yaitu dengan tingkat keakuratan nilai hingga 90%.
 
 **Recomendation**
