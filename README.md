@@ -12,7 +12,7 @@ Asuransi diberikan kepada customer yang memenuhi kriteria perusahaan berdasarkan
 1 : Claim declined
 
 ## Data Understanding
-Dataset source: https://www.kaggle.com/datasets/mhdzahier/travel-insurance 
+Dataset source [klik disini] https://www.kaggle.com/datasets/mhdzahier/travel-insurance 
 ### Atribute Information
 | Attribute | Data Type, Length | Description |
 | --- | --- | --- |
