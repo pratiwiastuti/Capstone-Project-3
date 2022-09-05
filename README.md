@@ -52,13 +52,14 @@ Pada proses ini, kita akan coba 5 model klasifikasi, yaitu:
 - Random Forest
 - Decision Tree
 - KNN
-- XGBoost
+- XGBoost<br>
 Dalam tahap ini, kita akan mencari model terbaik yang dapat menghasilkan prediksi dengan tingkat keakuratannya tinggi dilihat dari recall.
 
 ## Conclusion and Recomendation
 **Conclusion**
-Model terbaik yaitu XGBoost dengan nilai sbb:
+Model terbaik yaitu XGBoost dengan nilai sbb:<br>
 <img width="344" alt="best model" src="https://user-images.githubusercontent.com/107948562/188428937-69deae21-b84a-4af5-a242-8a57d38aea61.png"> <br>
+
 Model ini sudah di melalui teknik oversampling dan hasil prediksi yang didapat cukup baik yaitu dengan tingkat keakuratan nilai hingga 90%.
 
 **Recomendation**
