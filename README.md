@@ -8,8 +8,8 @@ Perusahaan travel menawarkan paket asuransi kepada customernya. Perusahaan ingin
 Asuransi diberikan kepada customer yang memenuhi kriteria perusahaan berdasarkan data yang sudah ada. Dalam hal ini kita akan membuat model untuk memprediksi customer mana yang lolos claim asuransinya.
 
 **Target** <br>
-0 : Claim accepted <br>
-1 : Claim declined
+1 : Claim accepted <br>
+0 : Claim declined
 
 ## Data Understanding
 Dataset source [klik disini](https://www.kaggle.com/datasets/mhdzahier/travel-insurance) 
